@@ -205,3 +205,18 @@ actuate to robot arm system.
 
 
 
+Here is a preview of the first steps on Actuation and control of the Robot Arm System.
+
+
+
+
+
+
+https://github.com/Ryannscotty/Gesture-Controlled-Robotic-Arm/assets/97707478/3535b7b5-6b63-43ef-b557-48b00b144fc0
+
+
+
+
+
+
+
